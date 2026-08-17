@@ -1,6 +1,6 @@
 
-const API = "https://api.mcstatus.io/v2/status/java/block-bound.org"; //temp
-const IP = "block-bound.org"; // filler — replace when the real server IP is ready
+const API = "https://api.mcstatus.io/v2/status/java/mc.block-bound.org"; //temp
+const IP = "mc.block-bound.org"; // filler — replace when the real server IP is ready
 const DISCORD_LINK = "https://discord.gg/blockbound"; // filler — replace with the real invite later
 
 const groupNames = {
