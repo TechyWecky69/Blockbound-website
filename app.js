@@ -1,7 +1,7 @@
 
 const API = "https://api.mcstatus.io/v2/status/java/mc.block-bound.org"; //temp
 const IP = "mc.block-bound.org"; // filler — replace when the real server IP is ready
-const DISCORD_LINK = "https://discord.gg/blockbound"; // filler — replace with the real invite later
+const DISCORD_LINK = "https://discord.gg/HvhGY599GK"; // filler — replace with the real invite later
 
 const groupNames = {
   START:"Start", MINING_T1:"Mining · Tier 1", MINING_T2:"Mining · Tier 2", MINING_T3:"Mining · Tier 3",
